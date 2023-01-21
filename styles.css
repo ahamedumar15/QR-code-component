@@ -16,8 +16,8 @@
 
 }
 .box-one{
-    width: 300px;
-    height: 70vh;
+    width: 200px;
+    min-height: 70vh;
     border-radius: 20px;
     background-color:#fff;
     position: absolute;
